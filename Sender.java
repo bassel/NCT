@@ -1,7 +1,7 @@
-/************************************
- * 		Author: Bassel Cheaib		*
- * 		Date:	May 2017			*
- ************************************/
+/********************************
+ * 	Author: Bassel Cheaib	*
+ * 	Date:	May 2017	*
+ ********************************/
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
