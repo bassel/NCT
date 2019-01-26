@@ -1,4 +1,5 @@
 # NCT
+[![Tech](https://img.shields.io/badge/Tech-Java-red.svg)](https://www.java.com/en/)
 [![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20Coffee-orange.svg)](https://www.buymeacoffee.com/basselch)
 
 This is a Java program that sends commands over local network between two computers.
